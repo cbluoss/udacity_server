@@ -1,7 +1,7 @@
 # udacity_server
 URL:  https://udacity.christoph-bluoss.de/
 
-IP:   35.164.245.44
+IP:   35.164.245.44 SSH-Port: 2200
 
 Software installed:
 
